@@ -709,3 +709,9 @@ footer {
 footer p {
     text-align: center;
 }
+.top{
+    margin-top: 5%;
+    margin-left: 5%;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
